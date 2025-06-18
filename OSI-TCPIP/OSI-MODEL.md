@@ -31,3 +31,10 @@ Data travels back and forth on a network from physical to application and back a
 ## Ethernet
 
 * : Ethernet is a set of standards (defined by IEEE 802.3) used for LANs and WANs. The word "Ethernet" is used commonly ot refure to parts of a local wired network, such as Ethernet cabling (Cat 5,5e, 6, 7 and 8), and Ethernet ports, where the cables are connected. The standards of ethernet includes the physical layer, which gives specifications for devices and signals and the data link layer, where it defines where signals is being organized
+
+
+
+---
+
+### physical  layer:
+    * is all about the hardware,
