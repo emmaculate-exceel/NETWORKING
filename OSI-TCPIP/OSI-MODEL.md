@@ -37,4 +37,28 @@ Data travels back and forth on a network from physical to application and back a
 ---
 
 ### physical  layer:
-    * is all about the hardware,
+    * is all about the hardware
+      eg:
+      i cables
+      ii wifi's
+      it basically handles the actual transmission of data. without this layer data can't move from one device to another.
+
+
+### Data link:
+    * makes sure that data moves smoothly from one host or device to another on the same network. making sure the data is packed properly and gets to the next stop successfully without errors.
+
+### Network layer :
+    * It assigns IP address to devices, defines or decides the best route through which data travels on the network and making sure that data being transmit reaches it destination.
+
+### Transport layer :
+    * Works like a delivery truck it ensures that all and every piece of data arrives in the right order and assembles them correctly if any peice is missing it sends it again.
+
+### Session layer :
+    * Which keeps a connection open between 2 or more devices. it set's up , manage and closes the connection once the communication is finished.
+
+### Presentation layer:
+    * This layer translates data into format that both devices understand and it also Encrypt data for security like converting and locking your messages before it is being sent.
+
+### Application layer:
+    * The application is the one we directly interact with . it's where in access websites, emails , games and many more also where the data becomes useful to us as users .
+
