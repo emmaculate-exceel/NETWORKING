@@ -1,0 +1,10 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+00:22:3F:D1:40:2A, 2026-10-01 14:48:47, 2026-10-01 14:49:43,  6,  54, WPA, TKIP, PSK, -44,      548,     9201,   0.  0.  0.  0,  17, NETWORK_ EXPANDER, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+E2:23:64:F2:E7:00, 2026-10-01 14:48:47, 2026-10-01 14:49:43, -74,     1713, 00:22:3F:D1:40:2A,
+D6:E6:E4:CC:D6:EE, 2026-10-01 14:48:49, 2026-10-01 14:49:41, -43,     2949, 00:22:3F:D1:40:2A,
+72:73:E6:0C:BB:99, 2026-10-01 14:48:55, 2026-10-01 14:49:37, -27,     1874, 00:22:3F:D1:40:2A,
+00:ED:67:18:D1:C8, 2026-10-01 14:48:55, 2026-10-01 14:49:39, -50,     3897, 00:22:3F:D1:40:2A,
+
